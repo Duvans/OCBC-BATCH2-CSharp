@@ -22,4 +22,4 @@ class HitungNilai4
             Console.WriteLine("Sorry, try again!");
         }
     }
-}19
+}

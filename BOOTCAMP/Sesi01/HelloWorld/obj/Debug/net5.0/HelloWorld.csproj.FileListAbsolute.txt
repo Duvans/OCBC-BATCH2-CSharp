@@ -1,0 +1,15 @@
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi01/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi01/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi01/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi01/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi01/HelloWorld/bin/Debug/net5.0/ref/HelloWorld.dll
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi01/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi01/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi01/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi01/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi01/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi01/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi01/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi01/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi01/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi01/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
