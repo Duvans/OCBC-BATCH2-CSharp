@@ -1,0 +1,15 @@
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi05/Program4/bin/Debug/net5.0/Program4.deps.json
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi05/Program4/bin/Debug/net5.0/Program4.runtimeconfig.json
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi05/Program4/bin/Debug/net5.0/Program4.runtimeconfig.dev.json
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi05/Program4/bin/Debug/net5.0/Program4.dll
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi05/Program4/bin/Debug/net5.0/ref/Program4.dll
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi05/Program4/bin/Debug/net5.0/Program4.pdb
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi05/Program4/obj/Debug/net5.0/Program4.csproj.AssemblyReference.cache
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi05/Program4/obj/Debug/net5.0/Program4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi05/Program4/obj/Debug/net5.0/Program4.AssemblyInfoInputs.cache
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi05/Program4/obj/Debug/net5.0/Program4.AssemblyInfo.cs
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi05/Program4/obj/Debug/net5.0/Program4.csproj.CoreCompileInputs.cache
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi05/Program4/obj/Debug/net5.0/Program4.dll
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi05/Program4/obj/Debug/net5.0/ref/Program4.dll
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi05/Program4/obj/Debug/net5.0/Program4.pdb
+/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi05/Program4/obj/Debug/net5.0/Program4.genruntimeconfig.cache
