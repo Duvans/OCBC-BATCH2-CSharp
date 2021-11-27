@@ -1,23 +1,27 @@
 ﻿<Properties StartupConfiguration="{7CD3ABE7-1F67-4DA4-98E5-DC2D6351B858}|Default">
   <MonoDevelop.Ide.ItemProperties.Kantor__WebAPI PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Kantor_WebAPI/appsettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Kantor_WebAPI/Program.cs">
     <Files>
       <File FileName="Kantor_WebAPI/Models/EmployeeItem.cs" Line="18" Column="1" />
       <File FileName="Kantor_WebAPI/Models/EmployeeContext.cs" />
       <File FileName="Kantor_WebAPI/Controllers/WeatherForecastController.cs" />
       <File FileName="Kantor_WebAPI/Controllers/EmployeeController.cs" />
       <File FileName="Kantor_WebAPI/Properties/launchSettings.json" />
-      <File FileName="Kantor_WebAPI/appsettings.json" Line="15" Column="1" />
+      <File FileName="Kantor_WebAPI/appsettings.json" />
       <File FileName="Kantor_WebAPI/Startup.cs" />
+      <File FileName="Kantor_WebAPI/Program.cs" Line="16" Column="1" />
+      <File FileName="Kantor_WebAPI/WeatherForecast.cs" />
+      <File FileName="Kantor_WebAPI/mono_crash.11a67480d0.0.json" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Kantor_WebAPI" expanded="True" selected="True">
+          <Node name="Kantor_WebAPI" expanded="True">
             <Node name="Kantor_WebAPI" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
