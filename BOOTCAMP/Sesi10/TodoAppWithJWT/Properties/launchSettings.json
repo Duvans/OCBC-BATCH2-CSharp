@@ -17,6 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
+
     "TodoApp": {
       "commandName": "Project",
       "dotnetRunMessages": "true",

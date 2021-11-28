@@ -15,6 +15,8 @@ using TodoAppWithJWT.Models.DTOs.Responses;
 
 namespace TodoAppWithJWT.Controllers
 {
+
+    //https://localhost:5001/swagger/index.html
     [Route("api/[controller]")]
     [ApiController]
     public class AuthManagementController : ControllerBase
