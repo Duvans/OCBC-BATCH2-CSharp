@@ -1036,11 +1036,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi09/Tugas02/Kantor_WebAPI/Kantor_WebAPI.csproj",
+      "projectUniqueName": "/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi09/Tugas_09/Kantor_WebAPI/Kantor_WebAPI.csproj",
       "projectName": "Kantor_WebAPI",
-      "projectPath": "/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi09/Tugas02/Kantor_WebAPI/Kantor_WebAPI.csproj",
+      "projectPath": "/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi09/Tugas_09/Kantor_WebAPI/Kantor_WebAPI.csproj",
       "packagesPath": "/Users/duvansanjaya/.nuget/packages/",
-      "outputPath": "/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi09/Tugas02/Kantor_WebAPI/obj/",
+      "outputPath": "/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi09/Tugas_09/Kantor_WebAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/duvansanjaya/.nuget/NuGet/NuGet.Config"

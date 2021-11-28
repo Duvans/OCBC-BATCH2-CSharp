@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{82584383-7BB9-41CE-8DB7-2AD971B71212}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MoviesDb.sql">
+    <Files>
+      <File FileName="Models/ItemData.cs" Line="1" Column="1" />
+      <File FileName="MoviesDb.sql" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MoviesAPI" expanded="True">
+            <Node name="MoviesAPI" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="MoviesDb.sql" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MoviesAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
