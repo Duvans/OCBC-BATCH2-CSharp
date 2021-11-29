@@ -14,7 +14,7 @@
         "outputPath": "/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi09/Kantor_WebAPI/Kantor_WebAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/duvansanjaya/.nuget/NuGet/NuGet.Config"
+          "/Users/duvansanjaya/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
