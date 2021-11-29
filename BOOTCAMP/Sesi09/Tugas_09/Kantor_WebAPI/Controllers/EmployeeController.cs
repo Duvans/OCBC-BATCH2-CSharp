@@ -9,7 +9,7 @@ using Kantor_WebAPI.Models;
 namespace Kantor_WebAPI.Controllers
 {
 
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
 
     public class EmployeeController : ControllerBase
