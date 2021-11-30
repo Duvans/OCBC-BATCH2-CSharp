@@ -39,19 +39,25 @@ namespace Kantor_WebAPI.Controllers
         }
 
         //post : api/adduser
-        [HttpPost(Name = "Add Employee")]
-        public ActionResult<IEnumerable<EmployeeItem>> PostEmployeeItem(String nama,String jenis_kelamin,String alamat)
+        // [HttpPost(Name = "Add Employee")]
+        // public ActionResult<IEnumerable<EmployeeItem>> PostEmployeeItem(String nama,String jenis_kelamin,String alamat)
+        // {
+        //     _context = HttpContext.RequestServices.GetService(typeof(EmployeeContext)) as EmployeeContext;
+        //     return _context.PostEmployee(nama,jenis_kelamin,alamat);
+        // }
+         [HttpPost(Name = "Add Employee")]
+        public ActionResult<IEnumerable<EmployeeItem>> PostEmployeeItem(EmployeeItem item)
         {
             _context = HttpContext.RequestServices.GetService(typeof(EmployeeContext)) as EmployeeContext;
-            return _context.PostEmployee(nama,jenis_kelamin,alamat);
+            return _context.PostEmployee(item);
         }
 
         //put : api/updateuser/{id}
         [HttpPut("{id}", Name = "Update Employee")]
-        public ActionResult<IEnumerable<EmployeeItem>> PutEmployeeItem(String id,String nama,String jenis_kelamin,String alamat)
+        public ActionResult<IEnumerable<EmployeeItem>> PutEmployeeItem(String id,EmployeeItem item)
         {
             _context = HttpContext.RequestServices.GetService(typeof(EmployeeContext)) as EmployeeContext;
-            return _context.PutEmployee(id,nama,jenis_kelamin,alamat);
+            return _context.PutEmployee(id,item);
         }
 
         //delete : api/deleteuser/{id}

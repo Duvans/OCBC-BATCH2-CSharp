@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{73E5C06D-2DDF-4248-9F4C-35BA0490D363}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTest_Mock/Startup.cs">
+    <Files>
+      <File FileName="UnitTest_Mock/Model/Employee.cs" Line="14" Column="28" />
+      <File FileName="UnitTest_Mock/Model/ApiDbContext.cs" Line="6" Column="27" />
+      <File FileName="UnitTest_Mock/appsettings.json" Line="13" Column="2" />
+      <File FileName="UnitTest_Mock/Startup.cs" Line="17" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnitTest_Mock" expanded="True">
+            <Node name="UnitTest_Mock" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Model" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UnitTest__Mock FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
