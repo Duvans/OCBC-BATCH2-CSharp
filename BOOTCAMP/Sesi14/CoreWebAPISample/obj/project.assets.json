@@ -1296,11 +1296,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi13/CoreWebAPISample/CoreWebAPISample.csproj",
+      "projectUniqueName": "/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi14/CoreWebAPISample/CoreWebAPISample.csproj",
       "projectName": "CoreWebAPISample",
-      "projectPath": "/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi13/CoreWebAPISample/CoreWebAPISample.csproj",
+      "projectPath": "/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi14/CoreWebAPISample/CoreWebAPISample.csproj",
       "packagesPath": "/Users/duvansanjaya/.nuget/packages/",
-      "outputPath": "/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi13/CoreWebAPISample/obj/",
+      "outputPath": "/Users/duvansanjaya/Desktop/OCBC NISP/BOOTCAMP/Sesi14/CoreWebAPISample/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/duvansanjaya/.nuget/NuGet/NuGet.Config"

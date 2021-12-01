@@ -1,18 +1,30 @@
-﻿<Properties StartupConfiguration="{73E5C06D-2DDF-4248-9F4C-35BA0490D363}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTest_Mock/Startup.cs">
+﻿<Properties StartupConfiguration="{2453D7EF-D9FF-4EC9-8B12-1EC200D3990B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestProject1/EmployeeTest.cs">
     <Files>
-      <File FileName="UnitTest_Mock/Model/Employee.cs" Line="14" Column="28" />
-      <File FileName="UnitTest_Mock/Model/ApiDbContext.cs" Line="6" Column="27" />
-      <File FileName="UnitTest_Mock/appsettings.json" Line="13" Column="2" />
-      <File FileName="UnitTest_Mock/Startup.cs" Line="17" Column="32" />
+      <File FileName="TestProject1/EmployeeTest.cs" Line="11" Column="1" />
+      <File FileName="TestProject1/UnitTest1.cs" />
+      <File FileName="TestProject1/mono_crash.11a67480d0.0.json" />
+      <File FileName="UnitTest_Mock/Models/ApiDbContext.cs" />
+      <File FileName="UnitTest_Mock/Models/Employee.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="UnitTest_Mock" expanded="True">
-            <Node name="UnitTest_Mock" expanded="True" selected="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Model" expanded="True" />
+            <Node name="TestProject1" expanded="True">
+              <Node name="EmployeeTest.cs" selected="True" />
+            </Node>
+            <Node name="UnitTest_Mock" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="UnitTest_Mock" expanded="True" selected="True">
+            <Node name="TestProject1" expanded="True">
+              <Node name="TestProject1" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -20,10 +32,13 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>XunitTest/XunitTest.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.UnitTest__Mock FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.UnitTest__Mock PreferredExecutionTarget="/Applications/Safari.app" />
 </Properties>
