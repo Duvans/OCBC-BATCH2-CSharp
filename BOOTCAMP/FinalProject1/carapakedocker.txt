@@ -1,4 +1,4 @@
-1. buat "Dockerfile"
+1. buat "Dockerfile" -> UBAH DIR SESUAI NAMA PROJ
 
 FROM mcr.microsoft.com/dotnet/aspnet:5.0 AS base
 WORKDIR /app
@@ -60,3 +60,34 @@ CMD ASPNETCORE_URLS=http://*:$PORT dotnet PaymentAPI.dll
 **/values.dev.yaml
 LICENSE
 README.md
+
+
+selanjutnya:
+
+1. buat image docker 
+				"docker build -t [nama_app_anda]:dev ." 
+
+2. jalankan container docker untuk cek apakah docker sudah jalan
+				"docker run -d  -p 5000:80 --name [nama_container_yang_akan_dibuat] [nama_image_yang_telah_dibuat]:dev" 
+
+3. push ke git branch development>masuk kedalam heroku kemudian buat app baru. > connect ke git>
+
+4. set buildpak heroku dengan menggunakan cli heroku
+      masuk ke terminal "heroku login"
+      kemudian remote app heroku yang telah dibuat "heroku git:remote -a syahfareizi-corewebapi"
+      setelah berhasil remote update buildpak: "heroku buildpacks:set jincod/dotnetcore"
+
+5. push aplikasi kita ke repository baru ( yang di push termasuk .sln ) pada branch development
+
+6. hubungkan repo yang telah terisi aplikasi kita dengan appheroku 
+			masuk kedalam dashboard heroku ( pastikan ada free akun dan telah login )
+      pilih connect github, kemudian pilih repo yang telah berisi aplikasi.
+      
+7. matikan fitur automatic deploy apabila branch belum terpisah
+
+8. pilih branch tempat aplikasi dan kemudian deploy 
+
+9. jalankan di web. 
+
+10. selesai 
+
